@@ -17,5 +17,4 @@ public class PracticaCalificada1 {
         // TODO code application logic here
     }
 
-hola mundo
 }
