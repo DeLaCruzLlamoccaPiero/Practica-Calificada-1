@@ -60,7 +60,7 @@ public class Ejercicio3 {
                 
         }
         
-            scanner.close();
+            scanner.close()
     }
 }
     
